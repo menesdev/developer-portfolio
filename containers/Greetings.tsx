@@ -1,7 +1,8 @@
 import React, { useEffect } from "react";
 import { greetings } from "../portfolio";
 import { Button, Container, Row, Col } from "reactstrap";
-import GreetingLottie from "../components/DisplayLottie";
+// import GreetingLottie from "../components/DisplayLottie";
+// import LottieLogo from 'https://photos.app.goo.gl/TX2cFZuy4qH5ckuAA'
 import SocialLinks from "../components/SocialLinks";
 
 const Greetings = () => {
@@ -40,7 +41,8 @@ const Greetings = () => {
                   )}
                 </Col>
                 <Col lg="6">
-                  <GreetingLottie animationPath="/lottie/coding.json" />
+                  {/* <GreetingLottie animationPath="/lottie/coding.json" /> */}
+                  <img src="https://photos.app.goo.gl/TX2cFZuy4qH5ckuAA" />
                 </Col>
               </Row>
             </div>
