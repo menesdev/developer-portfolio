@@ -40,7 +40,7 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/cografya.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/lottie/cografya.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Deneme Sınavı Analizleri"),
         emoji("⚡ Sınav Odaklı Planlama"),
