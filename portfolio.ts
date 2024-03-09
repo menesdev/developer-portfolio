@@ -196,7 +196,7 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Erhan Guneruz",
   description: greetings.description,
   author: "Hanzla Tauqeer",
   image: "https://photos.app.goo.gl/zNVTP8f96NyEnMC57",
