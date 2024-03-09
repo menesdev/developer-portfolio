@@ -30,8 +30,6 @@ export const socialLinks: SocialLinksType = {
   linkedin: "https://www.linkedin.com/in/menesdev",
   github: "https://github.com/",
   instagram: "https://www.instagram.com",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
 };
 
 export const skillsSection: SkillsSectionType = {
