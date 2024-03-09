@@ -39,12 +39,12 @@ export const skillsSection: SkillsSectionType = {
   subTitle: "İlkokul ve Ortaokul Düzeyinde Dersler, Çalışma Takibi, Motivasyon...",
   data: [
     {
-      title: "Full Stack Development",
+      title: "Erhan Hoca İle Mandalina Eşliğinde Eğitim",
       lottieAnimationFile: "/lottie/cografya.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
-        emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Building RESTful APIs in Django & Django REST Framework"),
+        emoji("⚡ Patetis 20 lira"),
+        emoji("⚡ Sarımsak 70 lira (kalite)"),
+        emoji("⚡ Mandelin 50 lira satsuma"),
       ],
       softwareSkills: [
         {
