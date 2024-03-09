@@ -199,7 +199,7 @@ export const seoData: SEODataType = {
   title: "Hanzla Tauqeer",
   description: greetings.description,
   author: "Hanzla Tauqeer",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
+  image: "https://photos.app.goo.gl/zNVTP8f96NyEnMC57",
   url: "https://erhanhoca.vercel.app",
   keywords: [
     "Erhan",
