@@ -35,8 +35,8 @@ export const socialLinks: SocialLinksType = {
 };
 
 export const skillsSection: SkillsSectionType = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "Neler Yapıyoruz",
+  subTitle: "İlkokul ve Ortaokul Düzeyinde Dersler, Çalışma Takibi, Motivasyon...",
   data: [
     {
       title: "Full Stack Development",
