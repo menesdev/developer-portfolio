@@ -40,11 +40,49 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/cografya.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/lottie/skills/cografya.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Deneme Sınavı Analizleri"),
-        emoji("⚡ Sınav Odaklı Planlama"),
-        emoji("⚡ Eğlenceli Ders Anlatımı"),
+        emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
+        emoji("⚡ Building responsive static websites using Next.js"),
+        emoji("⚡ Building RESTful APIs in Django & Django REST Framework"),
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          iconifyTag: "logos:python",
+        },
+        {
+          skillName: "Django",
+          iconifyTag: "vscode-icons:file-type-django",
+        },
+        {
+          skillName: "JavaScript",
+          iconifyTag: "logos:javascript",
+        },
+        {
+          skillName: "Reactjs",
+          iconifyTag: "vscode-icons:file-type-reactjs",
+        },
+        {
+          skillName: "Nextjs",
+          iconifyTag: "vscode-icons:file-type-light-next",
+        },
+        {
+          skillName: "AWS",
+          iconifyTag: "logos:aws",
+        },
+        {
+          skillName: "Heroku",
+          iconifyTag: "logos:heroku-icon",
+        },
+        {
+          skillName: "Github",
+          iconifyTag: "akar-icons:github-fill",
+        },
+        {
+          skillName: "Docker",
+          iconifyTag: "logos:docker-icon",
+        },
       ],
     },
   ],
