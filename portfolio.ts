@@ -90,15 +90,15 @@ export const skillsSection: SkillsSectionType = {
 
 export const SkillBars: SkillBarsType[] = [
   {
-    Stack: "Frontend/Design", //Insert stack or technology you have experience in
+    Stack: "Öğrenci Takibi", //Insert stack or technology you have experience in
     progressPercentage: "85", //Insert relative proficiency in percentage
   },
   {
-    Stack: "Backend",
+    Stack: "Özel Ders",
     progressPercentage: "90",
   },
   {
-    Stack: "Programming",
+    Stack: "Koçluk",
     progressPercentage: "95",
   },
 ];
