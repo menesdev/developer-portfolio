@@ -12,10 +12,10 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "Erhan Güneruz",
+  title: "Erhan Hoca Koçluk Hizmeti",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
+    "Erhan Güneruz, 15 yıllık eğitim tecrübesi, kendine has eğitim metodları ve öğrenci odaklı çalışma sistemiyle, koçluk hizmeti ve özel dersler vermektedir.",
   resumeLink: "#",
 };
 
