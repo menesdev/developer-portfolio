@@ -12,7 +12,7 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Erhan Güneruz",
+  name: "Erhan Guneruz",
   title: "Erhan Hoca Koçluk Hizmeti",
   description:
     "Erhan Güneruz, 15 yıllık eğitim tecrübesi, kendine has eğitim metodları ve öğrenci odaklı çalışma sistemiyle, koçluk hizmeti ve özel dersler vermektedir.",
@@ -202,12 +202,10 @@ export const seoData: SEODataType = {
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
-    "Hanzla",
-    "Hanzla Tauqeer",
-    "@1hanzla100",
-    "1hanzla100",
-    "Portfolio",
-    "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Erhan",
+    "Erhan Güneruz",
+    "Özel ders",
+    "Koçluk",
+    "Sungurlu"
   ],
 };
